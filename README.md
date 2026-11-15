@@ -76,6 +76,7 @@ Wenn das Speichern von API-Keys aktiviert ist, werden diese lokal mit restriktiv
 | `start_ki_team.sh` | Startskript für Linux |
 | `README.md` | Dokumentation |
 | `DESCRIPTION.md` | Kurzbeschreibung des Projekts |
+| `LICENSE` | MIT-Lizenz |
 
 ## Hinweise zum Ablauf
 
@@ -86,4 +87,4 @@ Wenn das Speichern von API-Keys aktiviert ist, werden diese lokal mit restriktiv
 
 ## Lizenz
 
-Für dieses Repository wurde bislang keine Lizenzdatei hinzugefügt. Bitte vor Weiterverwendung oder Weiterverteilung die Lizenzbedingungen klären.
+Dieses Projekt steht unter der **MIT License**. Die vollständigen Bedingungen stehen in der Datei `LICENSE`.
